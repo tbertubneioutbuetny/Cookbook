@@ -6,3 +6,7 @@ button {
   color:blue;
   text-shadow: 0 0 5px #005073, 0 0 10px #005073;
 }
+
+body {
+	background-color: #050505;
+}
